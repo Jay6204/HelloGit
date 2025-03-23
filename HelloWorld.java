@@ -7,15 +7,23 @@ class HelloWorld {
     static void sayJaiShreeRam() {
         System.out.println("Ek hi nara ek hi naam Jai Shree Ram Jai Shree Ram");
     }
+
+    static void sayJaiShreeKrishna() {
+        System.out.println("Jai Shree Krishna");
+    }
     static void sayJaiBholeShankar() {
         System.out.println("Bhole Nath Ki Jai");
     }
     
 
+    static void sayJaiHanuman() {
+        System.out.println("Jai Hanuman");
+    }
   public static void main(String[] args) {
       sayHello();
+      sayJaiShreeKrishna();
       sayJaiShreeRam();
+      sayJaiHanuman();
       sayJaiBholeShankar();
-    
   }
 }
