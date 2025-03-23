@@ -11,9 +11,20 @@ class HelloWorld {
     static void sayJaiShreeKrishna() {
         System.out.println("Jai Shree Krishna");
     }
+    static void sayJaiBholeShankar() {
+        System.out.println("Bhole Nath Ki Jai");
+    }
+    
+
+    static void sayJaiHanuman() {
+        System.out.println("Jai Hanuman");
+    }
   public static void main(String[] args) {
       sayHello();
+      sayJaiShreeRam();
+      sayJaiBholeShankar();
       sayJaiShreeKrishna();
-      sayJaiShreeRam(); 
+      sayJaiHanuman();
+        
   }
 }
