@@ -21,9 +21,10 @@ class HelloWorld {
     }
   public static void main(String[] args) {
       sayHello();
-      sayJaiShreeKrishna();
       sayJaiShreeRam();
-      sayJaiHanuman();
       sayJaiBholeShankar();
+      sayJaiShreeKrishna();
+      sayJaiHanuman();
+        
   }
 }
