@@ -17,7 +17,7 @@ class HelloWorld {
     
 
     static void sayJaiHanuman() {
-        System.out.println("Jai Hanuman");
+        System.out.println("Jai Jai Hanuman");
     }
 
     static void sayJaiMahakali() {
