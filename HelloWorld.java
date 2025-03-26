@@ -5,26 +5,30 @@ class HelloWorld {
     }
 
     static void sayJaiShreeRam() {
-        System.out.println("Ek hi nara ek hi naam Jai Shree Ram Jai Shree Ram");
+        System.out.println("Ek hi nara ek hi naam Jai Shree Ram Jai Shree Ram, Jai shree krishna");
     }
 
     static void sayJaiShreeKrishna() {
-        System.out.println("Jai Shree Krishna");
+        System.out.println("Jai Shree Krishna, Radhe Radhe");
     }
     static void sayJaiBholeShankar() {
-        System.out.println("Bhole Nath Ki Jai");
+        System.out.println("Bhole Shankar Ki Jai");
     }
     
 
     static void sayJaiHanuman() {
-        System.out.println("Jai Hanuman");
+        System.out.println("Jai Jai Hanuman");
+    }
+
+    static void sayJaiMahakali() {
+        System.out.println("Jai Mahakali ki jai");
     }
   public static void main(String[] args) {
       sayHello();
-      sayJaiShreeRam();
-      sayJaiBholeShankar();
       sayJaiShreeKrishna();
+      sayJaiShreeRam();
       sayJaiHanuman();
-        
+      sayJaiBholeShankar();
+      sayJaiMahakali();
   }
 }
